@@ -1,0 +1,26 @@
+{
+  "name": "girogateway",
+  "version": "1.0.0",
+  "description": "giro gateway",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lienren/GiroGateway.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "api",
+    "gateway",
+    "router"
+  ],
+  "author": "Lienren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lienren/GiroGateway/issues"
+  },
+  "homepage": "https://github.com/lienren/GiroGateway#readme"
+}
